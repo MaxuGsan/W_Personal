@@ -1,0 +1,17 @@
+body{
+    background-color: #dfc6a7;
+}
+h1{
+    color: #db5e5e;
+    font-size: 24px;}
+h2{
+    color: #16ac7a;
+    font-size: 18px;
+    text-decoration: underline;}
+h3{
+    color: rgb(110, 57, 19);
+    font-size: 18px;
+    text-decoration: underline;}
+p{
+    color: black;
+    font-size: 17px;}
